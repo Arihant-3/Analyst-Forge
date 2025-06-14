@@ -15,19 +15,23 @@ Welcome to **Analyst Forge**
 ## 📂 Folder Structure
 ```
 Analyst Forge/
-├── Daily_Questions/
-│   ├── 01_Question.ipynb
-│   ├── 02_Question.ipynb
+├── Phase1/
+│   ├── 01/
+│   │   ├── 01_question.ipynb
+│   │   └── dataset.csv
+|   |   ├── notes.md      ← reflections, thoughts, tips
+|   |   └── problems_faced.txt ← optional, quick list of issues/debugs
+│   ├── 02/
+│   │   ├── 02_question.ipynb
+│   │   └── dataset.csv
 │   └── ...
-├── Notes/
-│   ├── 01_Notes.md
-│   ├── 02_Notes.md
+├── Phase2/
 │   └── ...
-├── Data/
-│   ├── 01_data.csv
+├── Phase3/
 │   └── ...
 ├── References/
-│   └── pandas_cheatsheet.pdf
+|   └── Formulas.md
+├── requirements.txt/
 └── README.md
 
 ```
