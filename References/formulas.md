@@ -12,8 +12,20 @@
 
 👉 **Tip**: Always prefer `.dt.year` for reliability and performance.
 
+----
+----
+
 ## Basic Formulas for NULL
 ```
 missing_percentage = df.isnull().mean() * 100
 print(missing_percentage)
 ```
+
+----
+----
+
+## 
+
+----
+----
+
