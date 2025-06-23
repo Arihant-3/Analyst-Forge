@@ -7,3 +7,4 @@ seaborn
 plotly
 ipympl
 statsmodels
+wordcloud

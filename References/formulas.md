@@ -24,7 +24,31 @@ print(missing_percentage)
 ----
 ----
 
-## 
+## Tokenize and clean the text
+```
+import pandas as pd
+import string
+
+# Load the dataset
+df = pd.read_csv("dataset.csv")
+
+# Function to clean and tokenize
+def clean_and_tokenize(text):
+    # Lowercase
+    text = text.lower()
+    # Remove punctuation
+    for p in string.punctuation:
+        text = text.replace(p, "")
+    # Tokenize by splitting on whitespace
+    tokens = text.split()
+    return tokens
+
+# Apply the function to the 'Text' column
+df['Tokens'] = df['Text'].apply(clean_and_tokenize)
+
+# Display sample
+print(df.head())
+```
 
 ----
 ----
