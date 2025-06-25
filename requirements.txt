@@ -8,3 +8,4 @@ plotly
 ipympl
 statsmodels
 wordcloud
+lifelines
