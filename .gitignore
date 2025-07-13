@@ -6,12 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-# Streamlit specific
-streamlit_app/
-ideas.txt
-data/
-
-
 # Distribution / packaging
 .Python
 build/

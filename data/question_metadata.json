@@ -1,0 +1,302 @@
+[
+  {
+    "day": 1,
+    "phase": 1,
+    "title": "Uncover the Gender Gap in Education",
+    "core_lesson": "Creating differences in gender education levels in different countries. This task trains the univariate reading skills, help to distinguish patterns in education data.",
+    "tags": [],
+    "filename": "Phase-1/01/01_question.ipynb",
+    "notes_file": "Phase-1/01/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 2,
+    "phase": 1,
+    "title": "Sales Anomaly Detection by Season",
+    "core_lesson": "Interpreting consumer behavior through temporal trends and seasonality. This task builds the ability to read and interpret time-series data, a critical skill for any data analyst.",
+    "tags": [],
+    "filename": "Phase-1/02/02_question.ipynb",
+    "notes_file": "Phase-1/02/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 3,
+    "phase": 1,
+    "title": "Segmenting Customers (Mall Dataset)",
+    "core_lesson": "Customer Segmentation Using Clustering. This task trains the multivariate reading skills, help to distinguish patterns in customer behavior based on demographics and spending.",
+    "tags": [],
+    "filename": "Phase-1/03/03_question.ipynb",
+    "notes_file": "Phase-1/03/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 4,
+    "phase": 1,
+    "title": "Diagnosing & Dealing with Missing Data",
+    "core_lesson": "Missing Data Analysis & Imputation Techniques. This is a critical skill for any analyst, as real-world data is often incomplete.",
+    "tags": [],
+    "filename": "Phase-1/04/04_question.ipynb",
+    "notes_file": "Phase-1/04/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 5,
+    "phase": 1,
+    "title": "Spotting Outliers in Transactions",
+    "core_lesson": "Outlier Detection and Impact Assessment in Financial Data. This is a critical skill for fraud detection, risk management, and data quality assurance.",
+    "tags": [],
+    "filename": "Phase-1/05/05_question.ipynb",
+    "notes_file": "Phase-1/05/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 6,
+    "phase": 1,
+    "title": "What’s Correlated in Student Performance?",
+    "core_lesson": "Correlation Analysis & Heatmap Interpretation. This builds the ability to spot hidden relationships in high-dimensional data — a must-have for modeling and insight storytelling.",
+    "tags": [],
+    "filename": "Phase-1/06/06_question.ipynb",
+    "notes_file": "Phase-1/06/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 7,
+    "phase": 1,
+    "title": "Monthly Retention from Signup Cohorts",
+    "core_lesson": "Cohort Analysis: Tracking Group Behavior Over Time. This is how analysts understand retention, churn, and long-term engagement.",
+    "tags": [],
+    "filename": "Phase-1/07/07_question.ipynb",
+    "notes_file": "Phase-1/07/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 8,
+    "phase": 1,
+    "title": "Delivery Performance by City",
+    "core_lesson": "Geo-Spatial Analysis — an essential data skill for understanding location-driven behavior, reach, and performance.",
+    "tags": [],
+    "filename": "Phase-1/08/08_question.ipynb",
+    "notes_file": "Phase-1/08/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 9,
+    "phase": 1,
+    "title": "Decomposing Daily Website Traffic",
+    "core_lesson": "Time-Series Decomposition — Trend, Seasonality & Noise. This is key for analyzing sales, demand, web traffic, stock prices, and more.",
+    "tags": [],
+    "filename": "Phase-1/09/09_question.ipynb",
+    "notes_file": "Phase-1/09/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 10,
+    "phase": 1,
+    "title": "Keyword Frequency in Product Reviews",
+    "core_lesson": "Natural Language Processing (NLP) challenge — not with complex modeling, but through data reading and visual interpretation of text patterns.",
+    "tags": [],
+    "filename": "Phase-1/10/10_question.ipynb",
+    "notes_file": "Phase-1/10/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 11,
+    "phase": 2,
+    "title": "RFM Segmentation for Customer Value Targeting",
+    "core_lesson": "Segmenting customers based on Recency, Frequency, and Monetary value (RFM) to identify lifecycle stages.",
+    "tags": [],
+    "filename": "Phase-2/11/11_question.ipynb",
+    "notes_file": "Phase-2/11/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 12,
+    "phase": 2,
+    "title": "Modeling Customer Time-to-Churn with Survival Analysis",
+    "core_lesson": "Using survival analysis to model time until an event (like churn or dropout) and understand influencing factors.",
+    "tags": [],
+    "filename": "Phase-2/12/12_question.ipynb",
+    "notes_file": "Phase-2/12/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 13,
+    "phase": 2,
+    "title": "Anomaly Detection in Sensor Readings",
+    "core_lesson": "Detecting anomalies in numerical time-series data using statistical thresholds and visual analysis.",
+    "tags": [],
+    "filename": "Phase-2/13/13_question.ipynb",
+    "notes_file": "Phase-2/13/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 14,
+    "phase": 2,
+    "title": "Visualize Customer Segments Using t-SNE",
+    "core_lesson": "Using t-SNE to reduce high-dimensional data into 2D space and visually identify clusters or hidden patterns.",
+    "tags": [],
+    "filename": "Phase-2/14/14_question.ipynb",
+    "notes_file": "Phase-2/14/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 15,
+    "phase": 2,
+    "title": "Feature Engineering for Product Return Prediction",
+    "core_lesson": "Enhancing datasets using feature engineering to extract more predictive power from raw variables.",
+    "tags": [],
+    "filename": "Phase-2/15/15_question.ipynb",
+    "notes_file": "Phase-2/15/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 16,
+    "phase": 2,
+    "title": "Sales Performance Dashboard",
+    "core_lesson": "Designing decision dashboards using aggregated metrics and intuitive visualizations for fast insight delivery.",
+    "tags": [],
+    "filename": "Phase-2/16/16_question.ipynb",
+    "notes_file": "Phase-2/16/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 17,
+    "phase": 2,
+    "title": "Was the New Checkout Page Better?",
+    "core_lesson": "Evaluating A/B test results using statistical testing to determine if differences are significant.",
+    "tags": [],
+    "filename": "Phase-2/17/17_question.ipynb",
+    "notes_file": "Phase-2/17/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 18,
+    "phase": 2,
+    "title": "Does Ad Budget Increase Sales?",
+    "core_lesson": "Distinguishing correlation from causation using statistical controls and visual exploration in observational data.",
+    "tags": [],
+    "filename": "Phase-2/18/18_question.ipynb",
+    "notes_file": "Phase-2/18/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 19,
+    "phase": 2,
+    "title": "Clean & Merge E-Commerce Data",
+    "core_lesson": "Merging, cleaning, and enriching messy data from multiple sources to prepare analysis-ready datasets.",
+    "tags": [],
+    "filename": "Phase-2/19/19_question.ipynb",
+    "notes_file": "Phase-2/19/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 20,
+    "phase": 2,
+    "title": "Forecast Monthly Sales",
+    "core_lesson": "Forecasting future trends using moving averages and exponential smoothing on time series data.",
+    "tags": [],
+    "filename": "Phase-2/20/20_question.ipynb",
+    "notes_file": "Phase-2/20/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 21,
+    "phase": 3,
+    "title": "Pitch a Data Product Idea",
+    "core_lesson": "Designing a real-world data product using creative insight, analytical logic, and business framing.",
+    "tags": [],
+    "filename": "Phase-3/21/21_question.ipynb",
+    "notes_file": "Phase-3/21/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 22,
+    "phase": 3,
+    "title": "Analyzing Product Launch Success",
+    "core_lesson": "Using post-launch analytics to track product performance and recommend data-driven improvements.",
+    "tags": [],
+    "filename": "Phase-3/22/22_question.ipynb",
+    "notes_file": "Phase-3/22/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 23,
+    "phase": 3,
+    "title": "Churn Whisperer: Uncovering Why Users Leave",
+    "core_lesson": "Churn Analysis — identifying subtle patterns in user behavior that predict product abandonment.",
+    "tags": [],
+    "filename": "Phase-3/23/23_question.ipynb",
+    "notes_file": "Phase-3/23/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 24,
+    "phase": 3,
+    "title": "The A/B Trap: When 'Better' Isn’t Actually Better",
+    "core_lesson": "A/B Testing Analysis & Statistical Inference — looking beyond just mean differences to make data-backed product decisions.",
+    "tags": [],
+    "filename": "Phase-3/24/24_question.ipynb",
+    "notes_file": "Phase-3/24/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 25,
+    "phase": 3,
+    "title": "The Price is (Not Always) Right",
+    "core_lesson": "Price Elasticity Analysis — how user adoption and revenue respond to different price points.",
+    "tags": [],
+    "filename": "Phase-3/25/25_question.ipynb",
+    "notes_file": "Phase-3/25/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 26,
+    "phase": 3,
+    "title": "Map the Money: Regional Performance Audit",
+    "core_lesson": "Geographic Data Analysis — identify which regions are driving business success (or dragging it down).",
+    "tags": [],
+    "filename": "Phase-3/26/26_question.ipynb",
+    "notes_file": "Phase-3/26/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 27,
+    "phase": 3,
+    "title": "Segment to Survive: Target the Right Users",
+    "core_lesson": "Customer Segmentation & Behavioral Profiling — identify meaningful user groups that should receive personalized marketing.",
+    "tags": [],
+    "filename": "Phase-3/27/27_question.ipynb",
+    "notes_file": "Phase-3/27/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 28,
+    "phase": 3,
+    "title": "Voices & Numbers: A Mixed-Methods Deep Dive",
+    "core_lesson": "Quantitative + Qualitative Analysis — using both user behavior and feedback to diagnose issues and propose solutions.",
+    "tags": [],
+    "filename": "Phase-3/28/28_question.ipynb",
+    "notes_file": "Phase-3/28/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 29,
+    "phase": 3,
+    "title": "Before It Breaks: Early Signal Detection",
+    "core_lesson": "Time Series Trend Analysis + Metric Monitoring — track product health metrics and detect subtle behavior shifts.",
+    "tags": [],
+    "filename": "Phase-3/29/29_question.ipynb",
+    "notes_file": "Phase-3/29/Notes.md",
+    "summary": ""
+  },
+  {
+    "day": 30,
+    "phase": 3,
+    "title": "The Hero Metric: Tell the Story Behind the Numbers",
+    "core_lesson": "Data Storytelling + Synthesis — Build an end-to-end narrative that answers one big question using real data and sharp reasoning.",
+    "tags": [],
+    "filename": "Phase-3/30/30_question.ipynb",
+    "notes_file": "Phase-3/30/Notes.md",
+    "summary": ""
+  }
+]

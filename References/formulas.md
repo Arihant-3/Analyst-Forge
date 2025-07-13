@@ -166,3 +166,18 @@ They help answer:
 ---
 ---
 
+## 📊 pd.cut() vs pd.qcut()
+
+| Feature               | `pd.cut()`                                   | `pd.qcut()`                                      |
+|-----------------------|-----------------------------------------------|--------------------------------------------------|
+| **Basis**             | Fixed value ranges                            | Quantiles (percentile-based)                     |
+| **Bin size**          | Equal-width bins                              | Equal number of samples per bin                  |
+| **Output**            | Bins based on interval (e.g., 0–10, 10–20)     | Bins like "Top 25%", "Middle 50%"                |
+| **Use Case**          | When actual value ranges are meaningful        | When distribution-based segmentation is needed   |
+| **Sensitive to outliers** | ✅ Yes                                   | ❌ Less sensitive                                 |
+| **Example use**       | Bucketizing income levels (e.g., 0–50k, etc.) | Grouping users by engagement tiers               |
+
+---
+---
+---
+

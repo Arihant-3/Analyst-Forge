@@ -1,0 +1,501 @@
+User_ID,Total_Sessions,Avg_Session_Length_Min,Courses_Completed,Days_Since_Last_Login,Feedback_Text
+1,23,25.3,2,46,I want more advanced-level content.
+2,14,9.3,2,30,Content is outdated.
+3,24,18.5,1,30,App is amazing and easy to use.
+4,16,13.5,3,2,Subscription is too expensive.
+5,29,16.8,2,38,Helpful for beginners.
+6,17,20.3,3,29,I want more advanced-level content.
+7,19,13.0,1,37,I want more advanced-level content.
+8,17,17.8,1,10,Helpful for beginners.
+9,25,11.7,0,58,Not enough language support.
+10,18,17.3,3,5,Subscription is too expensive.
+11,24,12.2,1,46,Helpful for beginners.
+12,12,13.3,2,51,Slow loading times ruin the experience.
+13,25,12.8,1,49,Not enough language support.
+14,22,13.5,3,55,Slow loading times ruin the experience.
+15,20,14.0,1,50,Content is outdated.
+16,23,12.9,3,19,I want more advanced-level content.
+17,27,4.5,3,17,I wish there were more practical examples.
+18,21,19.2,3,32,Loved the UI and smooth performance!
+19,24,11.3,1,57,I want more advanced-level content.
+20,28,19.7,0,59,App is amazing and easy to use.
+21,25,20.1,1,3,Content is outdated.
+22,13,6.2,1,1,I want more advanced-level content.
+23,21,19.2,1,32,App is amazing and easy to use.
+24,23,11.6,2,3,App is amazing and easy to use.
+25,23,16.0,2,19,App is amazing and easy to use.
+26,26,11.4,2,28,Loved the UI and smooth performance!
+27,34,22.2,6,9,I wish there were more practical examples.
+28,23,16.2,2,46,Loved the UI and smooth performance!
+29,10,12.0,1,48,Slow loading times ruin the experience.
+30,18,3.0,2,58,App is amazing and easy to use.
+31,18,13.5,0,35,Helpful for beginners.
+32,18,9.5,7,14,Slow loading times ruin the experience.
+33,17,13.6,3,20,Not enough language support.
+34,22,10.2,2,20,App is amazing and easy to use.
+35,18,13.8,5,52,Not enough language support.
+36,19,16.4,0,17,Slow loading times ruin the experience.
+37,18,12.1,3,48,App is amazing and easy to use.
+38,19,12.2,1,48,I wish there were more practical examples.
+39,16,19.9,1,55,Helpful for beginners.
+40,15,11.3,1,37,Loved the UI and smooth performance!
+41,21,19.8,3,49,Not enough language support.
+42,20,13.7,0,40,I wish there were more practical examples.
+43,15,17.1,1,22,Loved the UI and smooth performance!
+44,25,11.2,1,30,Content is outdated.
+45,18,13.0,0,41,Helpful for beginners.
+46,21,8.7,2,57,Helpful for beginners.
+47,12,14.4,2,22,Subscription is too expensive.
+48,18,10.2,1,41,Too many bugs and crashes lately.
+49,19,16.3,2,47,App is amazing and easy to use.
+50,22,17.7,4,10,I wish there were more practical examples.
+51,15,19.5,1,3,Not enough language support.
+52,18,12.9,3,14,Too many bugs and crashes lately.
+53,17,14.1,2,55,Too many bugs and crashes lately.
+54,19,11.8,0,35,Too many bugs and crashes lately.
+55,25,19.4,2,35,Too many bugs and crashes lately.
+56,22,13.2,3,7,Not enough language support.
+57,23,12.2,2,49,Too many bugs and crashes lately.
+58,24,6.4,3,15,Helpful for beginners.
+59,9,12.2,0,52,Loved the UI and smooth performance!
+60,18,13.3,1,18,Content is outdated.
+61,14,9.9,0,12,Helpful for beginners.
+62,31,11.0,3,30,Content is outdated.
+63,20,17.7,3,13,Content is outdated.
+64,28,11.8,6,54,App is amazing and easy to use.
+65,14,9.6,4,18,Helpful for beginners.
+66,21,10.7,1,4,Too many bugs and crashes lately.
+67,20,14.5,5,41,App is amazing and easy to use.
+68,14,21.3,3,31,Slow loading times ruin the experience.
+69,27,24.5,4,25,Subscription is too expensive.
+70,19,15.4,2,27,Slow loading times ruin the experience.
+71,17,16.0,1,58,Slow loading times ruin the experience.
+72,26,14.7,2,18,Helpful for beginners.
+73,22,17.9,1,4,Loved the UI and smooth performance!
+74,24,11.8,1,59,Content is outdated.
+75,17,17.0,3,46,App is amazing and easy to use.
+76,20,20.2,2,6,Subscription is too expensive.
+77,23,20.8,2,45,Subscription is too expensive.
+78,17,22.9,2,55,Too many bugs and crashes lately.
+79,11,13.0,2,47,I want more advanced-level content.
+80,20,9.2,2,9,I wish there were more practical examples.
+81,19,14.1,2,11,Subscription is too expensive.
+82,22,9.9,2,43,Subscription is too expensive.
+83,20,11.2,4,22,I want more advanced-level content.
+84,19,15.4,4,22,I want more advanced-level content.
+85,16,11.2,1,56,I wish there were more practical examples.
+86,22,10.3,4,10,Helpful for beginners.
+87,28,18.0,2,31,App is amazing and easy to use.
+88,22,18.0,1,59,Too many bugs and crashes lately.
+89,22,12.9,3,15,Slow loading times ruin the experience.
+90,24,18.6,0,1,Not enough language support.
+91,14,9.3,1,24,Loved the UI and smooth performance!
+92,19,10.1,2,20,Not enough language support.
+93,20,12.6,3,46,Too many bugs and crashes lately.
+94,20,11.7,0,24,I want more advanced-level content.
+95,17,5.4,1,15,Helpful for beginners.
+96,15,17.8,0,51,Subscription is too expensive.
+97,13,16.3,1,35,App is amazing and easy to use.
+98,21,14.0,2,31,App is amazing and easy to use.
+99,28,17.8,2,47,Content is outdated.
+100,19,5.0,4,40,App is amazing and easy to use.
+101,14,10.2,2,43,Loved the UI and smooth performance!
+102,31,9.1,0,34,Content is outdated.
+103,11,16.9,1,27,Content is outdated.
+104,18,11.3,1,45,Slow loading times ruin the experience.
+105,21,16.5,2,25,Slow loading times ruin the experience.
+106,20,13.4,0,56,Too many bugs and crashes lately.
+107,11,17.8,2,55,App is amazing and easy to use.
+108,28,9.8,2,2,I want more advanced-level content.
+109,19,12.7,3,34,Loved the UI and smooth performance!
+110,17,14.6,0,8,Too many bugs and crashes lately.
+111,19,15.1,2,40,Helpful for beginners.
+112,27,16.1,3,28,Subscription is too expensive.
+113,17,15.3,1,21,Too many bugs and crashes lately.
+114,19,12.1,0,10,I want more advanced-level content.
+115,26,16.8,4,12,Helpful for beginners.
+116,27,13.8,2,37,Not enough language support.
+117,20,10.9,1,12,Not enough language support.
+118,31,17.8,1,5,Slow loading times ruin the experience.
+119,18,15.9,3,56,Subscription is too expensive.
+120,21,13.0,0,7,Slow loading times ruin the experience.
+121,18,11.3,1,27,I want more advanced-level content.
+122,23,16.6,3,17,Too many bugs and crashes lately.
+123,29,10.8,2,17,Slow loading times ruin the experience.
+124,14,17.3,2,40,Loved the UI and smooth performance!
+125,22,2.9,3,33,App is amazing and easy to use.
+126,18,16.3,1,28,Loved the UI and smooth performance!
+127,27,15.9,3,11,Content is outdated.
+128,15,12.4,3,16,App is amazing and easy to use.
+129,15,12.9,1,49,Too many bugs and crashes lately.
+130,25,14.4,3,53,Content is outdated.
+131,19,14.1,2,34,Helpful for beginners.
+132,19,11.5,3,43,Content is outdated.
+133,27,15.3,2,44,Helpful for beginners.
+134,15,13.8,0,37,App is amazing and easy to use.
+135,20,11.8,1,23,I wish there were more practical examples.
+136,21,17.3,2,46,Helpful for beginners.
+137,29,6.2,2,59,Content is outdated.
+138,15,18.7,4,19,Not enough language support.
+139,20,12.0,1,18,Helpful for beginners.
+140,23,12.4,1,18,I want more advanced-level content.
+141,23,5.9,2,55,Content is outdated.
+142,15,13.6,4,56,Subscription is too expensive.
+143,15,12.3,8,59,I wish there were more practical examples.
+144,26,15.6,2,42,I want more advanced-level content.
+145,20,7.0,2,44,Not enough language support.
+146,20,13.4,2,22,Too many bugs and crashes lately.
+147,15,6.8,2,16,I wish there were more practical examples.
+148,17,11.2,0,31,Content is outdated.
+149,24,14.8,1,8,Not enough language support.
+150,25,11.2,2,54,App is amazing and easy to use.
+151,20,12.8,1,55,Slow loading times ruin the experience.
+152,21,12.4,0,45,Helpful for beginners.
+153,20,12.2,3,50,Loved the UI and smooth performance!
+154,17,23.8,0,51,Helpful for beginners.
+155,18,9.4,2,43,Loved the UI and smooth performance!
+156,17,3.8,0,26,Content is outdated.
+157,22,13.3,2,18,Not enough language support.
+158,11,14.4,0,38,Not enough language support.
+159,25,9.6,3,32,Not enough language support.
+160,18,14.4,3,22,Too many bugs and crashes lately.
+161,18,9.6,2,58,Subscription is too expensive.
+162,22,11.3,6,20,I want more advanced-level content.
+163,22,15.1,2,33,Helpful for beginners.
+164,16,12.7,1,24,Slow loading times ruin the experience.
+165,20,16.2,4,56,Loved the UI and smooth performance!
+166,14,16.2,2,29,Subscription is too expensive.
+167,15,14.9,3,15,App is amazing and easy to use.
+168,30,7.7,3,27,Too many bugs and crashes lately.
+169,14,23.1,2,26,Loved the UI and smooth performance!
+170,16,17.3,6,17,I want more advanced-level content.
+171,31,13.5,2,53,Subscription is too expensive.
+172,17,15.3,4,17,Loved the UI and smooth performance!
+173,17,7.3,3,54,Helpful for beginners.
+174,20,11.9,1,11,Subscription is too expensive.
+175,17,10.6,6,13,Loved the UI and smooth performance!
+176,20,18.2,6,8,Helpful for beginners.
+177,14,13.0,3,14,I wish there were more practical examples.
+178,21,10.8,1,5,Loved the UI and smooth performance!
+179,20,18.4,0,57,Loved the UI and smooth performance!
+180,18,18.3,4,10,Subscription is too expensive.
+181,22,9.2,2,2,I want more advanced-level content.
+182,16,14.7,3,13,Subscription is too expensive.
+183,17,7.1,2,51,Too many bugs and crashes lately.
+184,15,10.0,2,3,Subscription is too expensive.
+185,22,19.4,0,12,Too many bugs and crashes lately.
+186,26,12.4,1,12,App is amazing and easy to use.
+187,19,12.8,2,12,I wish there were more practical examples.
+188,20,12.9,1,37,Helpful for beginners.
+189,12,14.9,3,15,Content is outdated.
+190,16,15.0,2,6,App is amazing and easy to use.
+191,22,9.4,2,35,Helpful for beginners.
+192,25,5.3,4,47,App is amazing and easy to use.
+193,27,18.4,4,19,Subscription is too expensive.
+194,17,16.2,1,10,I want more advanced-level content.
+195,23,13.9,0,47,Too many bugs and crashes lately.
+196,18,15.7,4,55,Loved the UI and smooth performance!
+197,15,7.2,0,30,Helpful for beginners.
+198,28,5.5,4,46,I want more advanced-level content.
+199,21,10.1,1,8,Helpful for beginners.
+200,17,15.1,2,27,Not enough language support.
+201,16,16.3,1,23,Not enough language support.
+202,21,9.7,3,16,Helpful for beginners.
+203,17,11.6,2,10,App is amazing and easy to use.
+204,17,14.8,4,31,Loved the UI and smooth performance!
+205,17,13.7,2,44,I want more advanced-level content.
+206,20,10.9,4,22,Loved the UI and smooth performance!
+207,21,12.6,1,38,Too many bugs and crashes lately.
+208,20,20.1,4,33,I wish there were more practical examples.
+209,22,11.2,1,37,Content is outdated.
+210,19,14.5,5,42,Too many bugs and crashes lately.
+211,19,11.1,0,19,Slow loading times ruin the experience.
+212,18,11.7,1,2,I wish there were more practical examples.
+213,21,18.1,0,57,Not enough language support.
+214,18,19.8,2,39,Subscription is too expensive.
+215,10,2.8,2,31,Subscription is too expensive.
+216,19,7.7,1,38,Content is outdated.
+217,29,18.2,5,26,Loved the UI and smooth performance!
+218,27,12.5,1,12,Subscription is too expensive.
+219,14,17.6,1,21,App is amazing and easy to use.
+220,21,14.1,3,57,App is amazing and easy to use.
+221,18,12.8,2,8,App is amazing and easy to use.
+222,10,15.2,2,49,Subscription is too expensive.
+223,18,13.2,1,42,Content is outdated.
+224,23,10.7,3,37,Not enough language support.
+225,21,10.3,3,11,Helpful for beginners.
+226,16,15.5,0,52,Helpful for beginners.
+227,16,12.1,3,46,Loved the UI and smooth performance!
+228,16,15.1,2,34,Slow loading times ruin the experience.
+229,20,20.0,5,46,App is amazing and easy to use.
+230,13,9.8,1,6,I want more advanced-level content.
+231,13,16.6,1,7,App is amazing and easy to use.
+232,21,15.1,2,31,Loved the UI and smooth performance!
+233,18,16.6,3,7,I want more advanced-level content.
+234,15,8.6,3,55,Not enough language support.
+235,17,12.6,0,39,Content is outdated.
+236,20,18.9,2,8,App is amazing and easy to use.
+237,13,13.7,4,47,Subscription is too expensive.
+238,13,13.3,1,39,App is amazing and easy to use.
+239,21,18.3,0,11,Not enough language support.
+240,24,12.8,1,24,Loved the UI and smooth performance!
+241,18,17.5,0,9,Helpful for beginners.
+242,21,13.8,2,22,App is amazing and easy to use.
+243,20,11.2,3,17,Not enough language support.
+244,19,11.9,1,29,Slow loading times ruin the experience.
+245,21,19.0,1,56,Subscription is too expensive.
+246,23,12.0,5,43,Content is outdated.
+247,14,10.8,0,11,Not enough language support.
+248,20,10.1,2,27,Helpful for beginners.
+249,19,6.0,2,30,Loved the UI and smooth performance!
+250,18,11.4,1,19,Not enough language support.
+251,19,13.0,3,45,Content is outdated.
+252,25,11.7,1,42,Helpful for beginners.
+253,19,9.2,1,46,Loved the UI and smooth performance!
+254,29,10.1,1,8,Slow loading times ruin the experience.
+255,20,10.9,3,48,Slow loading times ruin the experience.
+256,18,10.0,1,30,Loved the UI and smooth performance!
+257,20,13.6,1,17,App is amazing and easy to use.
+258,16,13.1,1,11,Not enough language support.
+259,19,14.5,3,23,Too many bugs and crashes lately.
+260,15,6.9,2,19,I wish there were more practical examples.
+261,25,20.8,2,45,Subscription is too expensive.
+262,17,10.9,2,53,Subscription is too expensive.
+263,14,11.5,0,23,Content is outdated.
+264,11,11.1,2,58,Content is outdated.
+265,18,19.3,3,13,Not enough language support.
+266,17,13.6,4,38,App is amazing and easy to use.
+267,17,18.0,2,30,Too many bugs and crashes lately.
+268,23,15.1,2,16,I wish there were more practical examples.
+269,16,2.0,0,20,I wish there were more practical examples.
+270,19,19.1,0,13,Loved the UI and smooth performance!
+271,18,10.3,1,9,Slow loading times ruin the experience.
+272,15,12.1,2,22,App is amazing and easy to use.
+273,17,7.5,2,52,Loved the UI and smooth performance!
+274,20,11.7,1,54,I want more advanced-level content.
+275,22,9.1,3,33,I wish there were more practical examples.
+276,14,10.8,1,34,Not enough language support.
+277,25,15.2,1,44,I want more advanced-level content.
+278,19,15.6,8,38,I wish there were more practical examples.
+279,25,23.0,0,50,Too many bugs and crashes lately.
+280,23,14.2,2,55,Not enough language support.
+281,20,13.5,2,24,Not enough language support.
+282,20,16.3,2,33,Loved the UI and smooth performance!
+283,16,18.4,2,27,Helpful for beginners.
+284,23,13.7,4,8,Too many bugs and crashes lately.
+285,19,17.1,0,42,I wish there were more practical examples.
+286,25,7.6,0,4,Loved the UI and smooth performance!
+287,20,9.7,1,2,Helpful for beginners.
+288,21,15.3,1,36,Content is outdated.
+289,14,12.2,0,35,App is amazing and easy to use.
+290,20,10.2,1,6,Slow loading times ruin the experience.
+291,16,6.5,4,23,Helpful for beginners.
+292,13,11.9,1,49,App is amazing and easy to use.
+293,15,23.5,3,40,I wish there were more practical examples.
+294,15,8.9,1,16,Not enough language support.
+295,22,6.8,1,30,Too many bugs and crashes lately.
+296,23,18.5,1,14,I want more advanced-level content.
+297,18,6.8,2,27,Helpful for beginners.
+298,22,10.9,4,9,App is amazing and easy to use.
+299,24,17.5,1,44,App is amazing and easy to use.
+300,22,14.3,1,3,Not enough language support.
+301,15,14.3,3,2,Helpful for beginners.
+302,17,18.6,2,33,Loved the UI and smooth performance!
+303,39,9.4,2,52,Loved the UI and smooth performance!
+304,23,13.7,0,23,Helpful for beginners.
+305,18,13.2,1,43,Content is outdated.
+306,25,15.5,2,10,Content is outdated.
+307,17,10.4,2,15,Too many bugs and crashes lately.
+308,11,8.9,1,50,Slow loading times ruin the experience.
+309,19,12.6,0,29,Not enough language support.
+310,21,6.9,2,29,Slow loading times ruin the experience.
+311,24,8.3,2,29,Too many bugs and crashes lately.
+312,25,9.8,1,41,Slow loading times ruin the experience.
+313,17,14.5,3,31,Not enough language support.
+314,13,10.0,1,21,I wish there were more practical examples.
+315,25,7.8,2,25,Not enough language support.
+316,21,9.3,0,28,Content is outdated.
+317,24,10.5,2,28,Helpful for beginners.
+318,20,9.9,4,12,I want more advanced-level content.
+319,25,16.8,2,36,Helpful for beginners.
+320,16,7.5,1,55,Not enough language support.
+321,18,20.2,4,26,Not enough language support.
+322,13,16.0,3,2,Subscription is too expensive.
+323,17,15.0,1,33,Loved the UI and smooth performance!
+324,21,18.4,2,37,Not enough language support.
+325,22,21.4,3,5,Helpful for beginners.
+326,20,12.5,0,44,Helpful for beginners.
+327,26,11.0,2,40,Too many bugs and crashes lately.
+328,22,9.3,3,6,Helpful for beginners.
+329,20,11.8,2,51,Not enough language support.
+330,18,8.9,3,7,Not enough language support.
+331,18,6.7,4,58,Content is outdated.
+332,19,8.8,3,22,App is amazing and easy to use.
+333,15,15.8,2,41,I wish there were more practical examples.
+334,19,5.2,4,47,Subscription is too expensive.
+335,19,8.5,3,10,Too many bugs and crashes lately.
+336,21,12.3,3,21,Content is outdated.
+337,15,13.3,2,6,Not enough language support.
+338,20,14.3,1,6,Helpful for beginners.
+339,19,5.5,1,36,Subscription is too expensive.
+340,18,14.5,3,52,Content is outdated.
+341,20,7.4,2,46,Content is outdated.
+342,23,18.4,0,56,Loved the UI and smooth performance!
+343,14,12.7,3,46,Not enough language support.
+344,17,11.9,2,40,App is amazing and easy to use.
+345,20,18.7,2,12,Helpful for beginners.
+346,23,11.5,5,49,Content is outdated.
+347,16,8.4,1,30,Not enough language support.
+348,17,12.9,2,15,App is amazing and easy to use.
+349,18,12.3,3,48,Slow loading times ruin the experience.
+350,27,13.8,1,27,Subscription is too expensive.
+351,18,17.6,2,31,Slow loading times ruin the experience.
+352,26,10.7,0,15,I wish there were more practical examples.
+353,21,16.0,2,1,Subscription is too expensive.
+354,13,16.8,2,54,Loved the UI and smooth performance!
+355,16,24.5,1,28,Subscription is too expensive.
+356,18,17.4,4,44,Not enough language support.
+357,26,5.4,4,6,Subscription is too expensive.
+358,20,10.9,2,2,Subscription is too expensive.
+359,32,9.6,2,19,Not enough language support.
+360,18,2.1,3,18,I wish there were more practical examples.
+361,14,10.5,1,51,App is amazing and easy to use.
+362,23,15.8,1,20,Loved the UI and smooth performance!
+363,16,8.9,4,42,Too many bugs and crashes lately.
+364,27,14.4,1,16,Helpful for beginners.
+365,15,12.6,1,11,Loved the UI and smooth performance!
+366,29,19.3,3,7,I wish there were more practical examples.
+367,25,16.2,2,47,Not enough language support.
+368,26,15.5,3,54,Content is outdated.
+369,14,19.0,3,26,Not enough language support.
+370,26,11.8,2,48,Helpful for beginners.
+371,26,10.5,2,55,Content is outdated.
+372,21,11.2,1,12,Loved the UI and smooth performance!
+373,15,8.4,2,13,App is amazing and easy to use.
+374,15,13.5,2,7,I want more advanced-level content.
+375,18,14.9,2,58,Helpful for beginners.
+376,23,17.6,4,10,I want more advanced-level content.
+377,19,7.5,2,14,I want more advanced-level content.
+378,15,18.6,1,24,Slow loading times ruin the experience.
+379,29,17.4,3,1,Not enough language support.
+380,20,16.9,0,14,Slow loading times ruin the experience.
+381,18,5.9,0,52,Too many bugs and crashes lately.
+382,16,12.3,1,8,Loved the UI and smooth performance!
+383,25,15.6,0,26,Subscription is too expensive.
+384,11,5.6,1,14,Content is outdated.
+385,23,6.1,2,15,Slow loading times ruin the experience.
+386,16,9.7,3,54,I want more advanced-level content.
+387,22,14.8,1,6,I want more advanced-level content.
+388,22,10.5,4,40,Helpful for beginners.
+389,19,17.8,3,19,I wish there were more practical examples.
+390,25,3.5,0,30,Subscription is too expensive.
+391,24,12.7,0,6,I want more advanced-level content.
+392,21,10.1,0,54,I wish there were more practical examples.
+393,20,17.5,1,26,Subscription is too expensive.
+394,24,20.1,1,35,Too many bugs and crashes lately.
+395,22,13.0,1,42,I wish there were more practical examples.
+396,13,12.7,1,32,Too many bugs and crashes lately.
+397,17,8.1,0,10,Loved the UI and smooth performance!
+398,21,9.8,2,11,Content is outdated.
+399,20,20.3,4,34,I wish there were more practical examples.
+400,25,23.7,1,27,App is amazing and easy to use.
+401,28,10.6,2,53,Content is outdated.
+402,20,10.0,1,36,Slow loading times ruin the experience.
+403,21,11.7,0,15,Loved the UI and smooth performance!
+404,14,12.8,1,54,Subscription is too expensive.
+405,24,13.5,2,17,Helpful for beginners.
+406,14,17.0,6,54,Loved the UI and smooth performance!
+407,21,5.6,1,22,Helpful for beginners.
+408,22,10.1,1,48,Slow loading times ruin the experience.
+409,19,16.0,1,3,Too many bugs and crashes lately.
+410,17,11.3,1,53,I want more advanced-level content.
+411,25,10.5,1,14,Subscription is too expensive.
+412,13,14.1,2,39,Loved the UI and smooth performance!
+413,18,13.5,1,36,I want more advanced-level content.
+414,28,8.9,4,52,App is amazing and easy to use.
+415,19,7.4,3,14,Not enough language support.
+416,16,5.8,0,29,I wish there were more practical examples.
+417,16,14.4,2,59,I want more advanced-level content.
+418,22,17.1,1,22,I wish there were more practical examples.
+419,24,13.2,1,47,Not enough language support.
+420,21,13.5,1,58,Subscription is too expensive.
+421,15,15.6,5,39,App is amazing and easy to use.
+422,22,18.2,1,1,I want more advanced-level content.
+423,20,15.2,0,31,Content is outdated.
+424,24,11.9,2,28,Content is outdated.
+425,16,9.9,1,49,Loved the UI and smooth performance!
+426,15,19.0,1,50,Not enough language support.
+427,19,12.5,1,4,I wish there were more practical examples.
+428,17,16.5,2,36,Loved the UI and smooth performance!
+429,15,14.7,2,38,Not enough language support.
+430,20,12.6,2,6,Too many bugs and crashes lately.
+431,25,16.4,2,53,Subscription is too expensive.
+432,21,8.5,4,15,Slow loading times ruin the experience.
+433,24,7.6,4,9,Slow loading times ruin the experience.
+434,22,16.1,1,16,Helpful for beginners.
+435,16,11.6,2,31,Not enough language support.
+436,29,14.3,2,24,Loved the UI and smooth performance!
+437,17,19.3,1,50,Subscription is too expensive.
+438,25,12.5,1,33,Loved the UI and smooth performance!
+439,22,16.3,0,32,Too many bugs and crashes lately.
+440,21,7.6,1,27,Content is outdated.
+441,20,14.1,1,48,Loved the UI and smooth performance!
+442,17,15.5,1,38,I want more advanced-level content.
+443,20,17.5,2,4,Too many bugs and crashes lately.
+444,17,16.6,1,48,Not enough language support.
+445,25,14.2,3,18,I want more advanced-level content.
+446,16,16.6,3,49,Subscription is too expensive.
+447,19,15.5,1,54,Not enough language support.
+448,17,9.5,2,20,Subscription is too expensive.
+449,21,9.8,4,42,Too many bugs and crashes lately.
+450,14,15.6,2,53,I wish there were more practical examples.
+451,17,15.3,1,51,Not enough language support.
+452,19,11.9,2,49,Subscription is too expensive.
+453,15,14.1,0,48,I want more advanced-level content.
+454,15,12.1,2,36,I want more advanced-level content.
+455,25,2.8,2,10,App is amazing and easy to use.
+456,17,2.6,1,27,I want more advanced-level content.
+457,13,7.4,0,19,Too many bugs and crashes lately.
+458,15,7.1,2,23,I wish there were more practical examples.
+459,18,8.5,0,21,Too many bugs and crashes lately.
+460,17,10.9,2,59,I want more advanced-level content.
+461,25,11.9,3,13,Content is outdated.
+462,20,10.3,2,59,Helpful for beginners.
+463,17,13.6,3,38,App is amazing and easy to use.
+464,15,12.7,1,1,Subscription is too expensive.
+465,12,22.7,3,43,Slow loading times ruin the experience.
+466,22,16.9,3,44,Helpful for beginners.
+467,16,11.7,0,55,Content is outdated.
+468,19,16.4,1,18,I wish there were more practical examples.
+469,23,16.2,1,35,Helpful for beginners.
+470,28,16.0,0,42,Helpful for beginners.
+471,22,7.5,2,33,Too many bugs and crashes lately.
+472,16,12.4,2,9,Content is outdated.
+473,22,3.9,1,51,Helpful for beginners.
+474,13,19.1,1,21,Helpful for beginners.
+475,27,13.2,0,28,Too many bugs and crashes lately.
+476,19,18.4,1,22,Not enough language support.
+477,12,9.2,3,34,I wish there were more practical examples.
+478,22,18.1,4,52,I wish there were more practical examples.
+479,23,12.7,1,2,Subscription is too expensive.
+480,21,13.7,3,37,Helpful for beginners.
+481,21,18.4,1,17,I want more advanced-level content.
+482,17,15.1,1,14,I want more advanced-level content.
+483,19,11.0,1,21,Not enough language support.
+484,26,9.5,2,33,I want more advanced-level content.
+485,26,14.7,1,25,Content is outdated.
+486,24,18.4,3,46,App is amazing and easy to use.
+487,22,10.9,1,33,Not enough language support.
+488,17,15.3,0,45,Too many bugs and crashes lately.
+489,27,16.4,3,8,Content is outdated.
+490,21,17.5,3,3,I wish there were more practical examples.
+491,15,18.5,0,34,Loved the UI and smooth performance!
+492,24,4.1,1,45,Too many bugs and crashes lately.
+493,17,7.2,0,40,App is amazing and easy to use.
+494,24,16.4,3,28,Slow loading times ruin the experience.
+495,25,11.9,3,47,Slow loading times ruin the experience.
+496,14,15.8,0,13,Helpful for beginners.
+497,14,5.1,0,51,Loved the UI and smooth performance!
+498,18,7.4,2,1,App is amazing and easy to use.
+499,26,17.1,3,3,Subscription is too expensive.
+500,16,8.4,2,9,Subscription is too expensive.
